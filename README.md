@@ -5,10 +5,10 @@ Solving the [Striver DSA Sheet](https://codolio.com/question-tracker/sheet/striv
 
 ## 📂 Arrays
 
-01. Largest Element in an Array – [Problem](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | [Solution](./Array/LargestElement.java)  
-02. Second Largest Element (No Sorting) – [Problem](https://www.geeksforgeeks.org/problems/second-largest3735/1) | [Solution](./Array/SecondLargest.java)  
-03. Check if Array is Sorted – [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./Array/CheckArraySortedAndRotated.java)  
-04. Remove Duplicates from Sorted Array – [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](./Array/RemoveDuplicatesFromSorted.java)  
+01. Largest Element in an Array – [Problem](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | [Solution](./Arrays/LargestElement.java)  
+02. Second Largest Element (No Sorting) – [Problem](https://www.geeksforgeeks.org/problems/second-largest3735/1) | [Solution](./Arrays/SecondLargest.java)  
+03. Check if Array is Sorted – [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./Arrays/CheckArraySortedAndRotated.java)  
+04. Remove Duplicates from Sorted Array – [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](./Arrays/RemoveDuplicatesFromSorted.java)  
  
 ## 📂 Binary Search
 
