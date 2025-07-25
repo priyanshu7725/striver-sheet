@@ -1,1 +1,26 @@
-# striver-sheet
+# 🚀 Striver DSA Sheet
+
+Solving the [Striver DSA Sheet](https://codolio.com/question-tracker/sheet/strivers-a2z-dsa-sheet) in **Java**, tracked manually using **Codolio**. 
+---
+
+## 📂 Arrays
+
+01. Largest Element in an Array – [Problem](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | [Solution](./Array/LargestElement.java)  
+02. Second Largest Element (No Sorting) – [Problem](https://www.geeksforgeeks.org/problems/second-largest3735/1) | [Solution](./Array/SecondLargest.java)  
+03. Check if Array is Sorted – [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Solution](./Array/CheckArraySortedAndRotated.java)  
+04. Remove Duplicates from Sorted Array – [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](./Array/RemoveDuplicatesFromSorted.java)  
+ 
+## 📂 Binary Search
+
+### Binary Search on 1D Arrays
+01. Binary Search to find X in sorted array - [Problem](https://leetcode.com/problems/binary-search/) | [Solution](./BinarySearch/BinarySearch.java)
+02. Implement Lower Bound - [Problem](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | [Solution](./BinarySearch/FloorInASortedArray.java)
+03. Implement Upper Bound - [Problem](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1) | [Solution](./BinarySearch/CeilTheFloor.java)
+04. Search Insert Position - [Problem](https://leetcode.com/problems/search-insert-position/description/) | [Solution](./BinarySearch/SearchInsertPosition.java)
+---
+
+## 🛠️ Tech Stack
+
+- **Language**: Java  
+- **IDE**: VS Code  
+- **Tracker**: Codolio
