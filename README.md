@@ -13,6 +13,7 @@ Solving the [Striver DSA Sheet](https://codolio.com/question-tracker/sheet/striv
 05. Rotate Array by one place – [Problem](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | [Solution](./Arrays/RightRotateByOne.java)
 06. Left Array by D places – [Problem](https://leetcode.com/problems/rotate-array/description/) | [Solution](./Arrays/LeftRotateArray.java)
 07. Move Zeroes to End - [Problem](https://leetcode.com/problems/move-zeroes/description/) | [Solution](./Arrays/MoveZeroesToEnd.java)
+08. Linear Search - [Problem](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | [Solution](./Arrays/LinearSearch.java)
 
 ## 📂 Binary Search
 
