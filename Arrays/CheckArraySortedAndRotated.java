@@ -11,4 +11,14 @@ public class CheckArraySortedAndRotated {
         }
         return n==1;
     }
+
+    //More oprtimised ( more understandable logic)
+    public boolean optimCheck(int[] arr) {
+        int n = arr.length;
+        int count = 0;
+        for ( int i = 0; i < n; i++) {
+            if ( arr[i] > arr[(i+1)%n]) count++;
+        }
+        return count <= 1;
+    }
 }
