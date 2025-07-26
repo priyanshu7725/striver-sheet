@@ -12,6 +12,7 @@ Solving the [Striver DSA Sheet](https://codolio.com/question-tracker/sheet/striv
 04. Remove Duplicates from Sorted Array – [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](./Arrays/RemoveDuplicatesFromSorted.java)  
 05. Rotate Array by one place – [Problem](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | [Solution](./Arrays/RightRotateByOne.java)
 06. Left Array by D places – [Problem](https://leetcode.com/problems/rotate-array/description/) | [Solution](./Arrays/LeftRotateArray.java)
+07. Move Zeroes to End - [Problem](https://leetcode.com/problems/move-zeroes/description/) | [Solution](./Arrays/MoveZeroesToEnd.java)
 
 ## 📂 Binary Search
 
